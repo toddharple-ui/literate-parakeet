@@ -1,0 +1,16 @@
+{
+  "@context":"https://schema.org",
+  "@type":"Person",
+  "name":"Todd S. Harple",
+  "honorificSuffix":"PhD",
+  "jobTitle":"Innovation Strategist",
+  "description":"Anthropologist and innovation strategist focused on the human interface with artificial intelligence: behavior, institutions, culture, meaning, and organizational systems.",
+  "url":"https://toddharple-ui.github.io/literate-parakeet/",
+  "sameAs":["https://www.linkedin.com/in/tharple/"],
+  "knowsAbout":["human-AI interaction","human-centered AI","AI strategy","AI innovation","Olympic AI","anthropology and technology","systems thinking","organizational alignment","digital twins","sport technology","human agency"],
+  "subjectOf":[
+    {"@type":"WebPage","url":"https://toddharple-ui.github.io/literate-parakeet/olympic-ai/"},
+    {"@type":"WebPage","url":"https://toddharple-ui.github.io/literate-parakeet/publications/"},
+    {"@type":"WebPage","url":"https://toddharple-ui.github.io/literate-parakeet/research/"}
+  ]
+}
